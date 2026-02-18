@@ -1,0 +1,18 @@
+# Dependencias para Sistema de Marketing Multiagente Cafe.AI
+
+# Core LangChain y LangGraph
+langgraph>=0.0.20
+langchain>=0.1.0
+langchain-core>=0.1.0
+
+# Integraciones con LLMs
+langchain-openai>=0.0.5
+langchain-ollama>=0.0.1
+
+# Utilidades
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+typing-extensions>=4.5.0
+
+# Opcional pero recomendado
+requests>=2.31.0
